@@ -174,7 +174,26 @@ Reported evaluation metrics:
 These results suggest that the generated data preserve statistical properties while reducing the risk of patient re-identification.
 
 ---
+## Technologies
 
+- Python
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- scipy
+- Jupyter Notebook
+
+---
+
+## Important Note
+
+The original dataset is not shared publicly due to confidentiality and health data protection concerns.
+
+Only code, documentation, presentations and non-sensitive outputs are included.
+
+---
 ## Repository Structure
 
 ```text
@@ -187,3 +206,42 @@ asthma-data-challenge-ml/
 ├── presentations/
 └── results/
 
+
+## Author
+
+PART 1
+ 
+ASAS Nedah 
+DURIMEL YohaLdère 
+MHAIMID Mohammed
+SAAD Fatima Zahra
+
+PART 2
+
+ATHMANE Mohamed Anis
+DURIMEL YohaLdère
+Mously Rym
+
+PART 3
+
+ASAS Nedah
+DURIMEL Yohaldère
+MUGISHA Abelard
+ 
+Master 1 Intelligence en données de santé  
+Université de Strasbourg  
+
+GitHub: https://github.com/DurimelY  
+LinkedIn: https://www.linkedin.com/in/yohaldère-durimel-a78003386
+
+## Repository Structure
+
+```text
+asthma-data-challenge-ml/
+│
+├── README.md
+├── requirements.txt
+├── data/
+├── notebooks/
+├── presentations/
+└── results/
