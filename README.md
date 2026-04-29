@@ -194,36 +194,21 @@ The original dataset is not shared publicly due to confidentiality and health da
 Only code, documentation, presentations and non-sensitive outputs are included.
 
 ---
-## Repository Structure
-
-```text
-asthma-data-challenge-ml/
-│
-├── README.md
-├── requirements.txt
-├── data/
-├── notebooks/
-├── presentations/
-└── results/
-
 
 ## Author
 
 PART 1
- 
 ASAS Nedah 
-DURIMEL YohaLdère 
+DURIMEL Yohaldère 
 MHAIMID Mohammed
 SAAD Fatima Zahra
 
 PART 2
-
 ATHMANE Mohamed Anis
-DURIMEL YohaLdère
+DURIMEL Yohaldère
 Mously Rym
 
 PART 3
-
 ASAS Nedah
 DURIMEL Yohaldère
 MUGISHA Abelard
