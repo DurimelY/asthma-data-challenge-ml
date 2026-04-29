@@ -14,8 +14,14 @@ presentations/.gitkeep
 
 ## Presentations
 
-The project presentations are available here:
+### Part 1 — kNN Asthma Classification
 
-- [Part 1 — kNN Asthma Classification](presentations/DC2_Part1_kNN_Asthma.pdf)
-- [Part 3 — Synthetic Data Generation](presentations/DC2_Part3_Synthetic_Data.pdf)
+[![Part 1 Presentation](presentations/part1_preview.png)](presentations/DC2_Partie1_kNN_Asthme.pdf)
 
+Short presentation of the classification pipeline: preprocessing, kNN, imbalance handling and threshold optimization.
+
+### Part 3 — Synthetic Data Generation
+
+[![Part 3 Presentation](presentations/part3_preview.png)](presentations/DC2_Partie3_Donnees_Synthetiques.pdf)
+
+Overview of the synthetic data generation method based on Avatar: use of k-nearest neighbors, Dirichlet distribution and barycentric interpolation to create realistic and privacy-preserving health data.
