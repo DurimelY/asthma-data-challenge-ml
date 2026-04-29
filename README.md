@@ -10,3 +10,4 @@ The dataset included clinical, treatment and healthcare cost variables.
 
 To reproduce the project, use a file with the same structure as the original dataset.
 
+presentations/.gitkeep
